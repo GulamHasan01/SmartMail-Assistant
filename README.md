@@ -165,6 +165,6 @@ Open a Pull Request
 
 Gulam Hasan
 
-LinkedIn: Your LinkedIn
+LinkedIn:(https://www.linkedin.com/in/gulam-hasan-80751a330/)
 
-GitHub: Your GitHub
+GitHub:https://github.com/GulamHasan01/
